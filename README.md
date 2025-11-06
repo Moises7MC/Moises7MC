@@ -1,6 +1,6 @@
 <div align="center">
   <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/Moises7MC/count.svg"/>
+  <img src="https://visitcount.itsvg.in/api?id=Moises7MC&icon=1&color=2"/>
   <br/>
 </div>
 <div>
