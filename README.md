@@ -143,7 +143,7 @@ La seguridad es fundamental en cada proyecto
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true)
+### "Clean code always looks like it was written by someone who cares." - Robert C. Martin
 
 </div>
 
