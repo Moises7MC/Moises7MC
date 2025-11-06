@@ -161,7 +161,7 @@ Siempre abierto a nuevas oportunidades y colaboraciones interesantes.
 
 <br/>
 
-### ⚡ "Code is like humor. When you have to explain it, it's bad." - Cory House
+### ⚡ "Clean code always looks like it was written by someone who cares." - Robert C. Martin
 
 <br/>
 
