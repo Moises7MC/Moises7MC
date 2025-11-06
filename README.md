@@ -1,3 +1,14 @@
+<div align="center">
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/TU_USUARIO/count.svg"/>
+  <br/>
+</div>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&bg_color=212121&color=ffffff&line=404db0&point=ffcd42&area=true&hide_border=true"/>
+</div>
+
 # 💫 About Me:
 # ¡Hola! 👋 Soy Moisés Llalle<br><br>Ingeniero de Sistemas apasionado por crear soluciones tecnológicas robustas y escalables.<br><br>## 💼 Especialización<br><br>Me especializo en el desarrollo full-stack con experiencia sólida en:<br><br>**Backend:**<br>- Java Spring Boot<br>- C# .NET<br><br>**Frontend:**<br>- React<br>- Angular<br><br>## 🚀 Enfoque<br><br>Mi trabajo se centra en construir aplicaciones web modernas, combinando arquitecturas backend eficientes con interfaces de usuario intuitivas y responsive. Me apasiona escribir código limpio, mantener buenas prácticas y estar en constante aprendizaje.<br><br>## 📫 Conectemos<br><br>jamesmoises7991@gmail.com
 
