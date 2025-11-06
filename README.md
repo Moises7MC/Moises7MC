@@ -1,6 +1,6 @@
 <div align="center">
   <p>Visitor count</p>
-  <img src="https://badges.pufler.dev/visits/Moises7MC/Moises7MC?color=blue&logo=github"/>
+  <img src="https://komarev.com/ghpvc/?username=Moises7MC&color=blue&style=flat"/>
   <br/>
 </div>
 <div>
