@@ -143,7 +143,7 @@ La seguridad es fundamental en cada proyecto
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Clean%20code%20always%20looks%20like%20it%20was%20written%20by%20someone%20who%20cares.&author=Robert%20C.%20Martin)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true)
 
 </div>
 
@@ -161,7 +161,7 @@ Siempre abierto a nuevas oportunidades y colaboraciones interesantes.
 
 <br/>
 
-### ⚡ "Clean code always looks like it was written by someone who cares." - Robert C. Martin
+### ⚡ "Code is like humor. When you have to explain it, it's bad." - Cory House
 
 <br/>
 
