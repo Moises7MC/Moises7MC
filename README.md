@@ -1,7 +1,6 @@
 <div align="center">
   <p>Visitor count</p>
-  <img src="https://hits.sh/github.com/Moises7MC.svg?style=flat&label=Profile%20Views&color=blue"/>
-  <img src="https://komarev.com/ghpvc/?username=Moises7MC&color=blue&style=flat"/>
+  <img src="https://badges.pufler.dev/visits/Moises7MC/Moises7MC?color=blue&logo=github"/>
   <br/>
 </div>
 <div>
