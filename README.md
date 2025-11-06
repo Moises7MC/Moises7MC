@@ -1,6 +1,6 @@
 <div align="center">
   <p>Visitor count</p>
-  <img src="https://visitcount.itsvg.in/api?id=Moises7MC&icon=1&color=2"/>
+  <img src="https://hits.sh/github.com/Moises7MC.svg?style=flat&label=Profile%20Views&color=blue"/>
   <br/>
 </div>
 <div>
